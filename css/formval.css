@@ -1,0 +1,25 @@
+/* formval.css
+ *
+ * adapatdo de: Stephen Poley, Web Matters, http://sbpoley.home.xs4all.nl/webmatters/formval.html, Set 2011
+ *
+ * jlopes, Dec  1 16:20:59 2011
+*/
+
+.info {
+  color : #333399;
+  background-color: transparent;
+  font-weight: normal;
+  font-size: 0.9em;
+}
+.warn {
+  color: #339933;
+  background-color: transparent;
+  font-weight: normal;
+  font-size: 0.9em;
+}
+.error {
+  color: #993333;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 0.9em;
+}
