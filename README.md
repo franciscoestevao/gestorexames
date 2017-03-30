@@ -1,5 +1,6 @@
 # gestorexames
 
+Exam manager, done for academic purposes
 
 https://gnomo.fe.up.pt/~sibd1513/gestorexames/
 
